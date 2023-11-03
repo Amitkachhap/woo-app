@@ -57,7 +57,7 @@ export default function Home() {
                 <a href="shoping-cart.html">Features</a>
               </li>
               <li>
-                <a href="blog.html">Blog</a>
+                <a href="blog.js">Blog</a>
               </li>
               <li>
                 <a href="about.html">About</a>
