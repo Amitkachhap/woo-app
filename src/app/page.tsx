@@ -2457,10 +2457,10 @@ export default function Home() {
                                         <div className="post-img-wrapp">
                                           <a href="https://shopperbell.com/10-unbeatable-strategies-for-mastering-online-shopping-like-a-pro/">
                                             <img
-                                              fetchpriority="high"
+                                              
                                               width={1024}
                                               height={683}
-                                              src="https://shopperbell.com/wp-content/uploads/2023/10/image-1698351897-scaled.jpg"
+                                              src="/vercel.svg"
                                               className="attachment-large size-large"
                                               alt=""
                                               decoding="async"
