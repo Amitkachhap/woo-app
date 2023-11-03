@@ -1,4 +1,5 @@
-export const Foo = () => (
+export default function Home() {
+  return (
   <>
     <meta charSet="UTF-8" />
     <link rel="profile" href="https://gmpg.org/xfn/11" />
@@ -4224,3 +4225,4 @@ export const Foo = () => (
     {/* Page cached by LiteSpeed Cache 5.7.0.1 on 2023-10-31 12:34:44 */}
   </>
 )
+                              }                              
