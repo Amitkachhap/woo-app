@@ -2474,8 +2474,7 @@ export default function Home() {
                                         </div>
                                       </figure>
                                       <div
-                                        className="post-date wd-post-date wd-style-with-bg"
-                                        onclick=""
+                                        
                                       >
                                         <span className="post-date-day">
                                           26{" "}
@@ -2666,8 +2665,7 @@ export default function Home() {
                                         </div>
                                       </figure>
                                       <div
-                                        className="post-date wd-post-date wd-style-with-bg"
-                                        onclick=""
+                                        
                                       >
                                         <span className="post-date-day">
                                           26{" "}
@@ -2915,7 +2913,7 @@ export default function Home() {
                                 type="radio"
                                 name="_mc4wp_action"
                                 defaultValue="subscribe"
-                                defaultChecked="true"
+                                checked
                               />{" "}
                               <span>Subscribe</span>
                             </label>
@@ -2934,7 +2932,7 @@ export default function Home() {
                                 type="email"
                                 name="EMAIL"
                                 placeholder="Your email address"
-                                required=""
+                                required
                               />
                             </p>
                             <p className="col-auto">
@@ -3279,7 +3277,7 @@ export default function Home() {
           name="s"
           aria-label="Search"
           title="Search for products"
-          required=""
+          required
         />
         <input type="hidden" name="post_type" defaultValue="product" />
         <button type="submit" className="searchsubmit">
