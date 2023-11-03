@@ -175,7 +175,7 @@ export default function Home() {
           </a>
         </li>
         <li>
-          <a href="blog.html">Blog</a>
+          <a href="blog.js">Blog</a>
         </li>
         <li>
           <a href="about.html">About</a>
